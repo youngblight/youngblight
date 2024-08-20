@@ -1,1 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KIZZY MAFASION</title>
+    <link rel="stylesheet" href="nav.css">
+</head>
+<body>
+    <div id="ani">
+        KIZZY MAFASION
+    </div>
+    <h>UNDERSTAND ABOUT OUR SITE</h>
+     <P>
+        We are very interresting about<br>
+        making u and those who arround u be proud because of u!!!!<br>
+        broo!!! usikae kinyonge unakila sababu ya kuwa special<br>
+        katika haya maisha, kikubwa nikuendana na wakati tyu kwani<br>
+        kupitia kizzy mafasion unaweza kujipata kwa kutokelezea<br>
+        I mean kupendeza hahaha tupigie simu kupitia 0762824985 au kama<br>
+        haitoshi unaweza kutembelea mitandao yetu ya kijamii kama<br>
+        vile facebook, tiktok, instagram, yote kwa @youngblighttz
+    </P>
+    <div id="nav">
+        <ul>
+        <li><a href="#home">Home</a></li>
+       <li><a href="#about">About us</a></li>
+       <li><a href="myServices.html" target="_blank">Services</a></li>
+      <li><a href="#Contact #us">Contact us</a></li>
+            </ul>
+    </div>
+    <div style="margin-bottom: 100px;" class="picha">
+        
+        <img src="IMG_20240113_175940_014.jpg">
 
+
+    </div>
+    <div id="chain">
+        <img src="mabell.jpg">
+        <p>Wai mabeli makali na uwe mjanja namanisha uwe mnyamwez au veeep<br>
+        vile vile mwanangu sana tumekuja na ofa kabambe ukinunua bell 2 utapata ofa <br>
+    ya kuongezewa bell moja bureee kama zawadi aiseee!!!!!! hiii si yakukosa<br>
+Hakuna kama yeyeeeee (kizzy mafashion)</p>
+    </div>
+    <div class="mth">
+        <img src="kitop.jpg">
+        <img src="IMG-20240801-WA0024.jpg">
+        <img src="1d6fec012a40410d934663b303f253ea.jpg">
+        <p>
+            Vilevile wadada nao hatujawaacha nyuma tunatambua uwepo<br>
+            wenu eti chakufanya tembelea mitandao yetu yakijamiii <br>
+            especially instagram na facebook karibuni sana walembo wetu
+        </p>
+    </div>
+    <div class="foot">
+<a style="display: block;text-align: start;">phone: 0762824985</a>
+<a style="display: block;text-align: start;">email: sirajukikula@435.gmail.com</a>
+<a style="display: block;text-align: start;">Address: Mbagala chamazi</a>
+    </div>
+    
+</body>
+</html>
